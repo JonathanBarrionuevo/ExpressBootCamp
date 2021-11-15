@@ -1,7 +1,7 @@
 {
   "name": "express",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. iniciar un proyecto npm npm init -y",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanBarrionuevo/ExpressBootCamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JonathanBarrionuevo/ExpressBootCamp/issues"
+  },
+  "homepage": "https://github.com/JonathanBarrionuevo/ExpressBootCamp#readme"
 }
